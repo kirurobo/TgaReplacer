@@ -1,0 +1,9 @@
+*.suo
+*.pdb
+*.pidb
+*.cache
+*.bak
+bin
+obj
+cache
+Temp
