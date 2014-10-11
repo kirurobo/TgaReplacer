@@ -160,7 +160,7 @@
             this.Controls.Add(this.textBoxTgaFile);
             this.Controls.Add(this.textBoxBinaryFile);
             this.Name = "MainForm";
-            this.Text = "指定ファイル中の1024×512TGA画像を置換するソフト";
+            this.Text = "指定ファイル中の1024×512TGA画像を置換するツール";
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
